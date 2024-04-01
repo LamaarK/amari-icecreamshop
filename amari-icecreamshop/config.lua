@@ -42,12 +42,12 @@ Config.Locations = {
 Crafting = {}
 
 Crafting.Hob = {
-	[1] = { ['chocice'] = { ['sugar'] = 1, ['chocchips'] = 3, ['vanillaescence'] = 1, ['cream'] = 1, }, },
-	[2] = { ['vanice'] = { ['sugar'] = 2, ['vanillaescence'] = 1, ['cream'] = 1, }, },
-    [3] = { ['caramelice'] = { ['sugar'] = 2, ['vanillaescence'] = 1, ['cream'] = 3, }, },
-    [4] = { ['strawberryice'] = { ['sugar'] = 1, ['vanillaescence'] = 1, ['strawberry'] = 1, ['cream'] = 1, }, },
-    [5] = { ['blueberryice'] = { ['sugar'] = 1, ['vanillaescence'] = 1, ['blueberry'] = 2, ['cream'] = 1, }, },
-    [6] = { ['orangeice'] = { ['sugar'] = 1, ['vanillaescence'] = 1, ['orange'] = 1, ['cream'] = 1, }, },
-    [7] = { ['mintice'] = { ['sugar'] = 1, ['vanillaescence'] = 1, ['mint'] = 3, ['cream'] = 1, }, },
+	[1] = { ['chocice'] = { ['sugar'] = 1, ['chocchips'] = 3, ['vanillaescence'] = 1, ['cream'] = 1, ['milk'] = 1, }, },
+	[2] = { ['vanice'] = { ['sugar'] = 2, ['vanillaescence'] = 1, ['cream'] = 1, ['milk'] = 1, }, },
+    [3] = { ['caramelice'] = { ['sugar'] = 2, ['vanillaescence'] = 1, ['cream'] = 3, ['milk'] = 1, }, },
+    [4] = { ['strawberryice'] = { ['sugar'] = 1, ['vanillaescence'] = 1, ['strawberry'] = 1, ['cream'] = 1, ['milk'] = 1, }, },
+    [5] = { ['blueberryice'] = { ['sugar'] = 1, ['vanillaescence'] = 1, ['blueberry'] = 2, ['cream'] = 1, ['milk'] = 1, }, },
+    [6] = { ['orangeice'] = { ['sugar'] = 1, ['vanillaescence'] = 1, ['orange'] = 1, ['cream'] = 1, ['milk'] = 1, }, },
+    [7] = { ['mintice'] = { ['sugar'] = 1, ['vanillaescence'] = 1, ['mint'] = 3, ['cream'] = 1, }, ['milk'] = 1, },
     ------------------------Add more items here / must correspond to client.lua and server.lua
 }
