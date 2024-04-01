@@ -33,6 +33,7 @@ PASTE THE FOLLOWING under qb-core/shared/items :
     blueberryice                 = { name = 'chocice', label = 'Blueberry Icecream', weight = 100, type = 'item', image = 'blueberryice.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = '' },
     orangeice                    = { name = 'chocice', label = 'Orange Icecream', weight = 100, type = 'item', image = 'orangeice.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = '' },
     mintice                      = { name = 'chocice', label = 'Peppermint Icecream', weight = 100, type = 'item', image = 'mintice.png', unique = true, useable = true, shouldClose = true, combinable = nil, description = '' },
+    milk                         = { name = 'milk', label = 'Fresh Milk', weight = 100, type = 'item', image = 'milk.png', unique = true, useable = false, shouldClose = true, combinable = nil, description = '' },
 
 --------------------------PASTE UNDER qb-core JOBS
 
