@@ -1,5 +1,18 @@
 ![Amari Icecreamshop logo](https://github.com/LamaarK/amari-icecreamshop/assets/65554339/bf4c292e-f3da-46b1-ba6e-42311b43a9d0)
 
+Inspired by Jimathy studying his amazing work, I have managed to create a small user owned Icecream shop from https://github.com/cmgjones1231/Sheep-FreeReleases MLO and Vehicle
+
+Please make sure you download the resource above to have it work properly
+**Requirements**
+qb-core
+qb-target
+qb-menu
+qb-input
+jim-payemnts
+
+For Support please visit my Discord : https://discord.gg/tEyueSVbFF **AND WAIT TILL YOU ARE GIVEN A ROLE (the discord is still new and we will sort the bots out soon**
+
+Check the images for previews as I do not do videos at all 
 
 PASTE THE FOLLOWING under qb-core/shared/items :
 
@@ -36,3 +49,12 @@ PASTE THE FOLLOWING under qb-core/shared/items :
 			['4'] = { name = 'Manager', isboss = true, payment = 150 },
 		},
 	},
+![ingredients location](https://github.com/LamaarK/amari-icecreamshop/assets/65554339/fd2c5c18-5cf1-4323-bd3e-99c50af11758)
+![icecream Churner2](https://github.com/LamaarK/amari-icecreamshop/assets/65554339/2beb0ba0-cc2a-4f9c-b7ae-3f41371b6423)
+![icecream Churner](https://github.com/LamaarK/amari-icecreamshop/assets/65554339/abf8384f-ac49-4f34-beaa-bba8be56368b)
+![duty location](https://github.com/LamaarK/amari-icecreamshop/assets/65554339/79bb8426-ee9d-46cc-aa41-09438136b708)
+![Tray2](https://github.com/LamaarK/amari-icecreamshop/assets/65554339/359684c8-a34d-4362-8b5a-4f0c95471de1)
+![Tray](https://github.com/LamaarK/amari-icecreamshop/assets/65554339/3620d3a6-c6e6-43c6-b332-529dccbb45f3)
+![store items2](https://github.com/LamaarK/amari-icecreamshop/assets/65554339/eaf48844-3847-4fda-87bf-828ce3f6ad44)
+![store items](https://github.com/LamaarK/amari-icecreamshop/assets/65554339/a0243791-d9b8-4a2b-915f-91072a5a7184)
+![PayPoint](https://github.com/LamaarK/amari-icecreamshop/assets/65554339/cd2c66d0-75f1-4646-aac9-e68d838ddac7)
