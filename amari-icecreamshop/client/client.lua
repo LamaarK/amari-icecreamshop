@@ -56,7 +56,7 @@ CreateThread(function()
 		if Config.Locations[k].zoneEnable then
 			blip = AddBlipForCoord(Config.Locations[k].blip)
 			SetBlipAsShortRange(blip, true)
-			SetBlipSprite(blip, 621)
+			SetBlipSprite(blip, 439)
 			SetBlipColour(blip, Config.Locations[k].blipcolor)
 			SetBlipScale(blip, 0.6)
 			SetBlipDisplay(blip, 6)
