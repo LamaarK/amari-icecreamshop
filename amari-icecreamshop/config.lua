@@ -48,6 +48,6 @@ Crafting.Hob = {
     [4] = { ['strawberryice'] = { ['sugar'] = 1, ['vanillaescence'] = 1, ['strawberry'] = 1, ['cream'] = 1, ['milk'] = 1, }, },
     [5] = { ['blueberryice'] = { ['sugar'] = 1, ['vanillaescence'] = 1, ['blueberry'] = 2, ['cream'] = 1, ['milk'] = 1, }, },
     [6] = { ['orangeice'] = { ['sugar'] = 1, ['vanillaescence'] = 1, ['orange'] = 1, ['cream'] = 1, ['milk'] = 1, }, },
-    [7] = { ['mintice'] = { ['sugar'] = 1, ['vanillaescence'] = 1, ['mint'] = 3, ['cream'] = 1, }, ['milk'] = 1, },
+    [7] = { ['mintice'] = { ['sugar'] = 1, ['vanillaescence'] = 1, ['mint'] = 3, ['cream'] = 1, ['milk'] = 1, }, },
     ------------------------Add more items here / must correspond to client.lua and server.lua
 }
