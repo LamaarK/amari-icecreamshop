@@ -110,7 +110,7 @@ RegisterNetEvent('amari-icecreamshop:FoodProgress', function(data)
 		{ animDict = data.animDict,	anim = data.anim, flags = 8, },
 	{}, {}, function()
 		TriggerServerEvent('amari-icecreamshop:GetFood', data)
-		StopAnimTask(GetPlayerPed(-1), data.animDict, data.anim, 1.0)
+		StopAnimTask(GetPlayerPed(), data.animDict, data.anim, 1.0)
 	end, function()
 		TriggerEvent('inventory:client:busy:status', false)
 		TriggerEvent('QBCore:Notify', "Cancelled!", 'error')
